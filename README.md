@@ -1,5 +1,5 @@
 # Appian-IITM-AI-Challenge
-Access the Deployed Link here : (LINK)[http://ec2-34-239-126-31.compute-1.amazonaws.com:8501]
+Access the Deployed Link here : [LINK](http://ec2-34-239-126-31.compute-1.amazonaws.com:8501)
 
 # 🚀 Smart Document Categorizer & Analyzer
 
