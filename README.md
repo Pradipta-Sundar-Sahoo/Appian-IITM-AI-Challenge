@@ -110,8 +110,8 @@ LLAMA_CLOUD_API_KEY=your_llama_key
 
 1. **Clone & Setup**:
 ```bash
-git clone https://github.com/yourusername/smart-doc-categorizer.git
-cd smart-doc-categorizer
+git clone https://github.com/Pradipta-Sundar-Sahoo/Appian-IITM-AI-Challenge.git
+cd Appian-IITM-AI-Challenge
 python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\activate
 ```
@@ -127,12 +127,7 @@ cp .env.example .env
 # Edit .env with your API keys
 ```
 
-4. **Database Initialization**:
-```bash
-python scripts/init_db.py
-```
-
-5. **Redis Setup**:
+4. **Redis Setup**:
 ```bash
 # Install Redis
 sudo apt-get install redis-server  # Ubuntu
@@ -142,7 +137,7 @@ brew install redis  # macOS
 redis-server
 ```
 
-6. **Run Application**:
+5. **Run Application**:
 ```bash
 streamlit run app.py
 ```
